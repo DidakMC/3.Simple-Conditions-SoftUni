@@ -1,0 +1,7 @@
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.csprojResolveAssemblyReference.cache
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\tonid\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

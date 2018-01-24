@@ -1,0 +1,7 @@
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\bin\Debug\SpeedTest.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\bin\Debug\SpeedTest.exe
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\bin\Debug\SpeedTest.pdb
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\obj\Debug\SpeedTest.csprojResolveAssemblyReference.cache
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\obj\Debug\SpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\obj\Debug\SpeedTest.exe
+C:\Users\tonid\source\repos\SimpleConditions\SpeedTest\obj\Debug\SpeedTest.pdb

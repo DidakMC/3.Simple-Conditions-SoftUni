@@ -1,0 +1,7 @@
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\bin\Debug\TimePlus15min.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\bin\Debug\TimePlus15min.exe
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\bin\Debug\TimePlus15min.pdb
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\obj\Debug\TimePlus15min.csprojResolveAssemblyReference.cache
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\obj\Debug\TimePlus15min.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\obj\Debug\TimePlus15min.exe
+C:\Users\tonid\source\repos\SimpleConditions\TimePlus15min\obj\Debug\TimePlus15min.pdb

@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\new\bin\Debug\@new.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\new\bin\Debug\@new.exe
+C:\Users\tonid\source\repos\SimpleConditions\new\bin\Debug\@new.pdb
+C:\Users\tonid\source\repos\SimpleConditions\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\new\obj\Debug\@new.exe
+C:\Users\tonid\source\repos\SimpleConditions\new\obj\Debug\@new.pdb
