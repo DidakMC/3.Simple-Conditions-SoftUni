@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\SecondsSum\bin\Debug\SecondsSum.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\SecondsSum\bin\Debug\SecondsSum.exe
+C:\Users\tonid\source\repos\SimpleConditions\SecondsSum\bin\Debug\SecondsSum.pdb
+C:\Users\tonid\source\repos\SimpleConditions\SecondsSum\obj\Debug\SecondsSum.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\SecondsSum\obj\Debug\SecondsSum.exe
+C:\Users\tonid\source\repos\SimpleConditions\SecondsSum\obj\Debug\SecondsSum.pdb

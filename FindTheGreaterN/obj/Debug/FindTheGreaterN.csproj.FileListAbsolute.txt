@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\FindTheGreaterN\bin\Debug\FindTheGreaterN.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\FindTheGreaterN\bin\Debug\FindTheGreaterN.exe
+C:\Users\tonid\source\repos\SimpleConditions\FindTheGreaterN\bin\Debug\FindTheGreaterN.pdb
+C:\Users\tonid\source\repos\SimpleConditions\FindTheGreaterN\obj\Debug\FindTheGreaterN.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\FindTheGreaterN\obj\Debug\FindTheGreaterN.exe
+C:\Users\tonid\source\repos\SimpleConditions\FindTheGreaterN\obj\Debug\FindTheGreaterN.pdb

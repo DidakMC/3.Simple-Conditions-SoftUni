@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe
+C:\Users\tonid\source\repos\SimpleConditions\EqualWords\bin\Debug\EqualWords.pdb
+C:\Users\tonid\source\repos\SimpleConditions\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\tonid\source\repos\SimpleConditions\EqualWords\obj\Debug\EqualWords.pdb

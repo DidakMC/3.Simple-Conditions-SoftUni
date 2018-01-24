@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\NumberRange\bin\Debug\NumberRange.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\NumberRange\bin\Debug\NumberRange.exe
+C:\Users\tonid\source\repos\SimpleConditions\NumberRange\bin\Debug\NumberRange.pdb
+C:\Users\tonid\source\repos\SimpleConditions\NumberRange\obj\Debug\NumberRange.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\NumberRange\obj\Debug\NumberRange.exe
+C:\Users\tonid\source\repos\SimpleConditions\NumberRange\obj\Debug\NumberRange.pdb

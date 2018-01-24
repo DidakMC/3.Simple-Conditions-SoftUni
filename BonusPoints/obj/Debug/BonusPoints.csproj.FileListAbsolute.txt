@@ -1,0 +1,7 @@
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\bin\Debug\BonusPoints.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\bin\Debug\BonusPoints.exe
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\bin\Debug\BonusPoints.pdb
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\obj\Debug\BonusPoints.csprojResolveAssemblyReference.cache
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\obj\Debug\BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\obj\Debug\BonusPoints.exe
+C:\Users\tonid\source\repos\SimpleConditions\BonusPoints\obj\Debug\BonusPoints.pdb

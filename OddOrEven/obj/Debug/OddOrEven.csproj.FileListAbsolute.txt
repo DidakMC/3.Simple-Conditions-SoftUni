@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\tonid\source\repos\SimpleConditions\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\tonid\source\repos\SimpleConditions\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\tonid\source\repos\SimpleConditions\OddOrEven\obj\Debug\OddOrEven.pdb

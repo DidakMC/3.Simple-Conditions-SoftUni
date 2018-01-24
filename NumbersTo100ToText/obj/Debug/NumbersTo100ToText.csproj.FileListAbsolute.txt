@@ -1,0 +1,7 @@
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\obj\Debug\NumbersTo100ToText.csprojResolveAssemblyReference.cache
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\obj\Debug\NumbersTo100ToText.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\bin\Debug\NumbersTo100ToText.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\bin\Debug\NumbersTo100ToText.exe
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\bin\Debug\NumbersTo100ToText.pdb
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\obj\Debug\NumbersTo100ToText.exe
+C:\Users\tonid\source\repos\SimpleConditions\NumbersTo100ToText\obj\Debug\NumbersTo100ToText.pdb

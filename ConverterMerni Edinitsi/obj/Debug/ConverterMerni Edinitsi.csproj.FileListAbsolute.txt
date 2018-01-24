@@ -1,0 +1,7 @@
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\bin\Debug\ConverterMerni Edinitsi.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\bin\Debug\ConverterMerni Edinitsi.exe
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\bin\Debug\ConverterMerni Edinitsi.pdb
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\obj\Debug\ConverterMerni Edinitsi.csprojResolveAssemblyReference.cache
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\obj\Debug\ConverterMerni Edinitsi.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\obj\Debug\ConverterMerni Edinitsi.exe
+C:\Users\tonid\source\repos\SimpleConditions\ConverterMerni Edinitsi\obj\Debug\ConverterMerni Edinitsi.pdb

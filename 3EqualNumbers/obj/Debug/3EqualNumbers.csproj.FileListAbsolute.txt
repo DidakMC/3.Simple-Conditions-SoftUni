@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\3EqualNumbers\bin\Debug\3EqualNumbers.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\3EqualNumbers\bin\Debug\3EqualNumbers.exe
+C:\Users\tonid\source\repos\SimpleConditions\3EqualNumbers\bin\Debug\3EqualNumbers.pdb
+C:\Users\tonid\source\repos\SimpleConditions\3EqualNumbers\obj\Debug\3EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\3EqualNumbers\obj\Debug\3EqualNumbers.exe
+C:\Users\tonid\source\repos\SimpleConditions\3EqualNumbers\obj\Debug\3EqualNumbers.pdb

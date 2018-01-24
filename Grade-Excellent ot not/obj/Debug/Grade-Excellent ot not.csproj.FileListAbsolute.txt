@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\Grade-Excellent ot not\bin\Debug\Grade-Excellent ot not.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\Grade-Excellent ot not\bin\Debug\Grade-Excellent ot not.exe
+C:\Users\tonid\source\repos\SimpleConditions\Grade-Excellent ot not\bin\Debug\Grade-Excellent ot not.pdb
+C:\Users\tonid\source\repos\SimpleConditions\Grade-Excellent ot not\obj\Debug\Grade-Excellent ot not.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\Grade-Excellent ot not\obj\Debug\Grade-Excellent ot not.exe
+C:\Users\tonid\source\repos\SimpleConditions\Grade-Excellent ot not\obj\Debug\Grade-Excellent ot not.pdb

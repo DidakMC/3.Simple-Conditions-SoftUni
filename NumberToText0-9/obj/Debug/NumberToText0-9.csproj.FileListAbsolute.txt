@@ -1,0 +1,6 @@
+C:\Users\tonid\source\repos\SimpleConditions\NumberToText0-9\bin\Debug\NumberToText0-9.exe.config
+C:\Users\tonid\source\repos\SimpleConditions\NumberToText0-9\bin\Debug\NumberToText0-9.exe
+C:\Users\tonid\source\repos\SimpleConditions\NumberToText0-9\bin\Debug\NumberToText0-9.pdb
+C:\Users\tonid\source\repos\SimpleConditions\NumberToText0-9\obj\Debug\NumberToText0-9.csproj.CoreCompileInputs.cache
+C:\Users\tonid\source\repos\SimpleConditions\NumberToText0-9\obj\Debug\NumberToText0-9.exe
+C:\Users\tonid\source\repos\SimpleConditions\NumberToText0-9\obj\Debug\NumberToText0-9.pdb
